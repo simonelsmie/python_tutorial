@@ -14,11 +14,13 @@ def hello_world():
 hello_world()
 
 
-# def hello_name(name):
-#     print("Hello " + name)
-
+def hello_name(name):
+    print("Hello " + name)
 
 # hello_name("Simon")
+
+
+
 
 
 # print vs. return
@@ -26,12 +28,16 @@ def print_four():
     print(4)
 
 
-print_four()
+# print_four()
 
 def print_five():
-    return 5
+    return "This is a test banana"
 
-print_five()
+# print(print_five())
+
+banana = print_five()
+# print(banana)
+
 
 
 # Variables
@@ -39,4 +45,4 @@ print_five()
 # From right to left
 
 name = "Andy"
-print(name)
+# print(name)

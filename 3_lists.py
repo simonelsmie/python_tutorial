@@ -24,34 +24,22 @@ fruit = ["apple", "banana", "kiwi", "pear", "grape"]
 
 
 # Create an empty list
-new_list = []
-# or new_list = list()
+
 
 # List functions
 # Adding to a list - using append
-# print(new_list)
-new_list.append("keyboard")
-# print(new_list)
+
 
 # Removing from the end of a list - using pop
-# print(new_list)
 
-# print(new_list)
 
 ## You can remove items by their value - using remove
-fruit.remove("grape")
-# print(fruit)
 
 
-# Adding lists
-combined_list = fruit + new_list
-# print(combined_list)
+# Adding/combining lists
+
 
 # Extending Lists
-fruit2 = ["peach", "orange", "dragonfruit"]
-fruit.extend(fruit2)
-# print(fruit)
 
 
-nested_list = [1,2,3,4,[5,6,7]]
-# print(nested_list)
+# Nested lists
