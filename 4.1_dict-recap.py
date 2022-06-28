@@ -1,8 +1,8 @@
-# Add to the employee dictionary the keys of name and service_years
+# 1. Add to the employee dictionary the keys of name and service_years
 julie = {}
 
 
-# Add the new employee into our list of employees
+# 2. Add the new employee into our list of employees
 employees = [
     {
         "name": "Mike",
@@ -20,7 +20,7 @@ employees = [
 
 print(employees)
 
-# There is a mistake, Mike has been working for 6 years. Update Mike's service_years to 6
+# 3. There is a mistake, Mike has been working for 6 years. Update Mike's service_years to 6
 
 
-# A new key is required of age. Add the age key with the string value of UNKNOWN to each employee
+# 4. A new key is required of age. Add the age key with the string value of UNKNOWN to each employee
