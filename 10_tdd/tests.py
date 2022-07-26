@@ -1,4 +1,3 @@
-from audioop import add
 import unittest
 from traveller import Traveller
 
