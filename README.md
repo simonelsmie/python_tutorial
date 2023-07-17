@@ -4,4 +4,6 @@
 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=simon-test-setup_test-setup&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=simon-test-setup_test-setup)
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=simon-test-setup_test-setup)](https://sonarcloud.io/summary/new_code?id=simon-test-setup_test-setup)
+
 Adding test branch
